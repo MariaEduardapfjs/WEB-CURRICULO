@@ -24,7 +24,7 @@ O projeto é composto pelos seguintes arquivos:
 | Arquivo | Descrição |
 | :--- | :--- |
 | `index.html` | O arquivo principal com a estrutura e o conteúdo do meu currículo. |
-|`Arquivos JPEG ou PNG` | Arquivos de imagens para sua foto do curriculo e portifolio  |
+|`Arquivos JPG ou PNG` | Arquivos de imagens para sua foto do curriculo e portifolio  |
 | `README.md` | Este arquivo, com informações sobre o projeto. |
 | `style.css` | O arquivo de estilos que define a aparência e o layout. |
 | `script.js` | O arquivo JavaScript para interatividade e animações. |
